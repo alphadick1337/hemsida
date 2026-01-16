@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+line-height: 1.6;
+background-color: #f4f4f4;
+color: #333;
+}
+header {
+background: #6b4f1d;
+color: #fff;
+padding: 1.5rem;
+text-align: center;
+}
+nav {
+background: #333;
+color: #fff;
+padding: 0.5rem;
+text-align: center;
+}
+nav a {
+color: #fff;
+margin: 0 1rem;
+text-decoration: none;
+font-weight: bold;
+}
+nav a:hover {
+text-decoration: underline;
+}
+main {
+padding: 2rem;
+max-width: 900px;
+margin: auto;
+background: #fff;
+}
+section {
+margin-bottom: 2rem;
+}
+h2 {
+color: #6b4f1d;
+}
+footer {
+background: #333;
+color: #fff;
+text-align: center;
+padding: 1rem;
+font-size: 0.9rem;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Allt om Öl</h1>
+<p>En enkel introduktion till ölets värld</p>
+</header>
+
+
+<nav>
+<a href="#vad">Vad är öl?</a>
+<a href="#typer">Olika ölsorter</a>
+<a href="#bryggning">Bryggprocessen</a>
+<a href="#kultur">Ölkultur</a>
+</nav>
+
+
+<main>
+<section id="vad">
+<h2>Vad är öl?</h2>
+<p>
+Öl är en alkoholhaltig dryck som bryggs av vatten, malt (oftast korn), humle och jäst.
+Drycken är en av världens äldsta och mest konsumerade, med tusentals variationer beroende
+på råvaror, bryggmetod och tradition.
+</p>
+</section>
+
+
+<section id="typer">
+<h2>Olika ölsorter</h2>
+<ul>
+<li><strong>Lager</strong> – Ljus, frisk och ofta lättdrucken.</li>
+<li><strong>Ale</strong> – Fruktigare och fylligare smak, jäser vid högre temperatur.</li>
+<li><strong>IPA</strong> – En humlerik ale med tydlig beska.</li>
+<li><strong>Stout</strong> – Mörk öl med toner av kaffe och choklad.</li>
+<li><strong>Veteöl</strong> – Ljus och ofta grumlig, bryggd med vetemalt.</li>
+</ul>
+</section>
+
+
+<section id="bryggning">
+<h2>Bryggprocessen</h2>
+<p>
+Bryggning av öl sker i flera steg: mäskning, lakning, kokning med humle, jäsning och
+lagring. Varje steg påverkar slutresultatets smak, arom och alkoholhalt.
+</p>
+</section>
+
+
+<section id="kultur">
+<h2>Ölkultur</h2>
+<p>
+Öl har en stark kulturell förankring i många länder. I Sverige har intresset för
+hantverksöl vuxit kraftigt de senaste åren, med många lokala bryggerier och
+specialöl på marknaden.
+</p>
+</section>
+</main>
+
+
+<footer>
+<p>© 2026 Allt om Öl – Endast för informationssyfte</p>
+</footer>
+</body>
+</html>
